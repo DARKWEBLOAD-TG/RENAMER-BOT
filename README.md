@@ -21,6 +21,7 @@
  👉 `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@MT_ID_BOT](http://www.telegram.dog/MT_ID_BOT)**
 
 ## 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂
+```
 
 (* /rename - to rename telegram files
 * /c2v - to convert files into video
