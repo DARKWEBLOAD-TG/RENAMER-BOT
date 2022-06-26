@@ -23,11 +23,12 @@
 ## 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂
 ```
 
-(* /rename - to rename telegram files
+* /rename - to rename telegram files
 * /c2v - to convert files into video
 * /showthumb - to check the corrent thumbnail
 * /delthumb - to delete the current saved thumbnail
 * /scaption - to set your custom caption)
+´´
 
 
 ##Created by @ DARKWEBLOAD
