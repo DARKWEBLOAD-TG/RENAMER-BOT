@@ -28,3 +28,5 @@
 * /delthumb - to delete the current saved thumbnail
 * /scaption - to set your custom caption)
 ´´´
+
+## Creator 
