@@ -1,4 +1,4 @@
-# 𝚁𝙴𝙽𝙰𝙼𝙴-𝙱𝙾𝚃 📝
+# 𝚁𝙴𝙽𝙰𝙼𝙴-𝙱𝙾𝚃 
 
 <p align="middle">
 <img src="https://telegra.ph/file/398883252fe587eb217fb.jpg" width="150" height="150"><br>
