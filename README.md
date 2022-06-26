@@ -11,10 +11,10 @@
 
 # 𝚁𝙴𝚀𝚄𝙸𝚁𝙴𝙳 𝚅𝙰𝚁𝚂 :-
 
-* 👉 `TG_BOT_TOKEN`<br> **Your Bot Token Taken From [@BotFather](https://t.me/botfather)**
+ 👉 `TG_BOT_TOKEN`<br> **Your Bot Token Taken From [@BotFather](https://t.me/botfather)**
 
-* 👉 `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
+ 👉 `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
 
-* 👉 `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@MT_ID_BOT](http://www.telegram.dog/MT_ID_BOT)**
+ 👉 `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@MT_ID_BOT](http://www.telegram.dog/MT_ID_BOT)**
 
 ##Created by @ DARKWEBLOAD
