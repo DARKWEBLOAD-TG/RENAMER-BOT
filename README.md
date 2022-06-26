@@ -22,10 +22,8 @@
 
 ## 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂
 
-<pre>(* /rename - to rename telegram files
+* /rename - to rename telegram files
 * /c2v - to convert files into video
 * /showthumb - to check the corrent thumbnail
 * /delthumb - to delete the current saved thumbnail
-* /scaption - to set your custom caption)<pre>
-
-Creator 
+* /scaption - to set your custom caption
