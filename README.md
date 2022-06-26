@@ -22,16 +22,9 @@
 
 ## 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂
 ```
-
 * /rename - to rename telegram files
 * /c2v - to convert files into video
 * /showthumb - to check the corrent thumbnail
 * /delthumb - to delete the current saved thumbnail
 * /scaption - to set your custom caption)
-´´
-
-
-##Created by @ DARKWEBLOAD
-
-
-*<a href="https://github.com/Ns-AnoNymouS"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
+´´´
