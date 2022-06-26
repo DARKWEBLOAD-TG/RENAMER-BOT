@@ -22,7 +22,6 @@
 
 ## 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂
 ```
-
 * /rename - to rename telegram files
 * /c2v - to convert files into video
 * /showthumb - to check the corrent thumbnail
