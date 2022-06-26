@@ -27,5 +27,5 @@
 * /showthumb - to check the corrent thumbnail
 * /delthumb - to delete the current saved thumbnail
 * /scaption - to set your custom caption
-´´´
-## @DARKWEBLOAD
+
+## 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 
