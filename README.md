@@ -17,4 +17,11 @@
 
  👉 `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@MT_ID_BOT](http://www.telegram.dog/MT_ID_BOT)**
 
+Commands
+* /rename - to rename telegram files
+* /c2v - to convert files into video
+* /showthumb - to check the corrent thumbnail
+* /delthumb - to delete the current saved thumbnail
+* /scaption - to set your custom caption
+
 ##Created by @ DARKWEBLOAD
