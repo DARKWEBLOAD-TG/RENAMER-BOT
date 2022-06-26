@@ -9,7 +9,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKWEBLOAD-TG/RENAMER-BOT)
 
-# 𝚁𝙴𝚀𝚄𝙸𝚁𝙴𝙳 𝚅𝙰𝚁𝚂 :-
+# 𝚁𝙴𝚀𝚄𝙸𝚁𝙴𝙳 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂:-
 
  👉 `TG_BOT_TOKEN`<br> **Your Bot Token Taken From [@BotFather](https://t.me/botfather)**
 
