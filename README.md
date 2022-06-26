@@ -28,4 +28,4 @@
 * /delthumb - to delete the current saved thumbnail
 * /scaption - to set your custom caption
 ´´´
-## ©️ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : @DARKWEBLOAD
+## @DARKWEBLOAD
