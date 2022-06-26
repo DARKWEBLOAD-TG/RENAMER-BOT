@@ -1,6 +1,6 @@
 # 𝚁𝙴𝙽𝙰𝙼𝙴-𝙱𝙾𝚃 📝
 
--👉 **Simple file renamer and file to video conveter:-**
+👉 **Simple file renamer and file to video conveter:-**
  * Rename Telegram Files Into Any Formats <pre>(Like Renaming Video Files Into Audio File Or Images Into Stickers, Can Be Rename Any File To Most Of The Available Extensions 🙃) </pre>
  * Convert Files into Video
  * Supports Custom Caption/ Permanent Thumbnail support.
