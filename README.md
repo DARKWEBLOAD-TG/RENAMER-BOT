@@ -8,7 +8,7 @@
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/DARKWEBLOAD-TG/RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarckWebload/FileRenamerBot)
 
 # Required vars :-
 
