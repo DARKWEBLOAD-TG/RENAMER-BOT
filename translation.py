@@ -13,7 +13,7 @@ class Translation(object):
     CUSTOM_CAPTION_UL_FILE = " "
     NO_THUMB_FOUND = "ɴᴏ ᴛʜᴜᴍʙɴᴀɪʟ ғᴏᴜɴᴅ !!"
     IFLONG_FILE_NAME = """ʏᴏᴜ ɢᴏᴛᴛᴀ ʙᴇ ᴋɪᴅᴅɪɴɢ ᴍᴇ...ᴅᴇɢʀᴇᴀᴄᴇ ᴛʜᴇ ɴᴜᴍʙᴇʀ ᴏғ ʟᴇᴛᴛᴇʀs😆😉"""
-    ABOUT_ME = """• 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆 : ʀᴇɴᴀᴍᴇ ʙᴏᴛ\n• 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : ᴘʏᴛʜᴏɴ\n• 𝑺𝒆𝒓𝒗𝒆𝒓 : ʜᴇʀᴏᴋᴜ\n• 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a> """
+    ABOUT_ME = """• 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆 : ʀᴇɴᴀᴍᴇ ʙᴏᴛ\n• 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : ᴘʏᴛʜᴏɴ\n• 𝑺𝒆𝒓𝒗𝒆𝒓 : ʜᴇʀᴏᴋᴜ\n• 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href="https://t.me/DARKWEBLOAD">Dᴀʀᴋ ᴡᴇʙʟᴏᴀᴅ🇮🇳</a>\n• 𝑠𝑜𝑢𝑟𝑐𝑒 𝑐𝑜𝑑𝑒 : <a href="https://github.com/DARKWEBLOAD-TG/RENAMER-BOT">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a> """
     HELP_USER = """<b>ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴛʜᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs ʜᴇʀᴇ</b>"""
     RENAME_HELP = """Hᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴛs ɪɴ ʀᴇɴᴀᴍᴇ \n\n\n▪️ <code>/rename</code> : ʀᴇᴘʟᴀʏ ᴛᴏ ᴀɴ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴡɪᴛʜ /rename ғɪʟᴇ ɴᴀᴍᴇ ᴡɪᴛʜ .ᴇxᴛᴇɴsɪᴏᴍ ғᴏʀ ʀᴇɴᴀᴍɪɴɢ"""
     C2V_HELP = """Hᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴛs ɪɴ ғɪʟᴇ ᴛᴏ ᴠɪᴅᴇᴏ \n\n\n ▪️<code>/c2v</code> : ʀᴇᴘʟᴀʏ ᴛᴏ ᴀɴ ғɪʟᴇ ᴡɪᴛʜ /c2v ᴛᴏ ᴄᴏɴᴠᴇʀᴛ ɪᴛ ɪɴᴛᴏ ᴠɪᴅᴇᴏ"""
