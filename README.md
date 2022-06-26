@@ -18,7 +18,7 @@
 
  👉 `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
 
- 👉 `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@MT_ID_BOT](http://www.telegram.dog/MT_ID_BOT)**
+ 👉 `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [http://www.telegram.dog/UseTGXBot]**
 
 ## 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂
 
