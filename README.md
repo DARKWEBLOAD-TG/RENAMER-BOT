@@ -5,7 +5,7 @@
 * 𝙲𝙾𝙽𝚅𝙴𝚁𝚃 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽𝚃𝙾 𝚅𝙸𝙳𝙴𝙾
 * 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝚂 𝙲𝚄𝚂𝚃𝙾𝙼 𝙲𝙰𝙿𝚃𝙸𝙾𝙽/𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽𝚃 𝚃𝙷𝚄𝙼𝙱𝙽𝙰𝙸𝙻 𝚂𝚄𝙿𝙿𝙾𝚁𝚃.
 * 𝙵𝙾𝚁𝙲𝙴 𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴 𝚃𝙾 𝚃𝙰𝚁𝙶𝙴𝚃𝙴𝙳 𝙲𝙷𝙰𝚃
-# Deploy straight to Heroku!
+# 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARKWEBLOAD-TG/RENAMER-BOT)
 
