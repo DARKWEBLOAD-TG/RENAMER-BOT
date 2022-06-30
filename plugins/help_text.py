@@ -63,13 +63,13 @@ async def help_user(bot, update):
                     InlineKeyboardButton('📝 ʀᴇɴᴀᴍᴇ', callback_data = "rnme")
                 ],    
                 [    
-                    InlineKeyboardButton('🔁 ғɪʟᴇ 𝖳ᴏ 𝖵ɪᴅᴇᴏ', callback_data = "f2v")
+                    InlineKeyboardButton('🔁 ғɪʟᴇ ᴛᴏ ᴠɪᴅᴇᴏ', callback_data = "f2v")
                 ],
                 [
-                    InlineKeyboardButton('🖼️ ᴄᴜsᴛᴏᴍ 𝖳ʜᴜᴍʙɴᴀɪʟ', callback_data = "cthumb")
+                    InlineKeyboardButton('🖼️ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ', callback_data = "cthumb")
                 ],    
                 [    
-                    InlineKeyboardButton('📰 ᴄᴜsᴛᴏᴍ 𝖢ᴀᴘᴛɪᴏɴ', callback_data = "ccaption")
+                    InlineKeyboardButton('📰 ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ', callback_data = "ccaption")
                 ],
                 [
                     InlineKeyboardButton('😈 ᴀʙᴏᴜᴛ ', callback_data = "about"),
